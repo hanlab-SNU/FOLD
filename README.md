@@ -38,7 +38,7 @@ FOLD obtains multiple summary statistics from each study, such that each statist
 
 The frame of the gold standard approach and FOLD are
 
-![이미지](/image/FOLD_scheme.jpg)
+![이미지](/image/FOLD_scheme.png)
 
 ### Code and manual Links:
 
