@@ -38,7 +38,7 @@ FOLD obtains multiple summary statistics from each study, such that each statist
 
 The frame of the gold standard approach and FOLD are
 
-![이미지](/image/FOLD_scheme.png)
+<img src="/image/FOLD_scheme.png" width="700">
 
 ### Code and manual Links:
 
@@ -51,7 +51,7 @@ FOLD-split helps with split individuals to maximize power.
 
 Equal splitting and Case-based splitting are two widely known methods, we compared FOLD-split with Equal and Case-based splitting approaches
 
-![이미지](/image/FOLD-split.jpg)
+<img src="/image/FOLD-split.jpg" width="700">
 
 * Power of different methods:
 
